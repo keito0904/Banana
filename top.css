@@ -113,6 +113,7 @@
 .box-content{
   padding: 20px 17px;
   height: 250px;
+  overflow: scroll;
 }
 .box-content ul li{
   margin-bottom: 20px;
