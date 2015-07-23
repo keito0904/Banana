@@ -83,3 +83,7 @@
   border-right: 1px solid #fff;
   opacity: 0.5;
 }
+.main-content{
+  background-color: #f4f9ea;
+  padding-top: 30px;
+}
