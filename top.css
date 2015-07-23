@@ -66,3 +66,12 @@
   /* W3C Markup, IE10 Release Preview */
   background-image: linear-gradient(to top, #856727 0%, #6A511F 100%);
 }
+.top-nav li.logo img{
+  width: 130px;
+}
+.top-nav .nav-logo{
+  width: 160px;
+  padding: 14px 14px 14px 0px;
+  display: block;
+  text-align: center;
+}
