@@ -21,3 +21,6 @@
   margin: 0 auto;
   width: 980px;
 }
+.top-nav li{
+  float: left;
+}
