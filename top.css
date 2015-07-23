@@ -1,3 +1,5 @@
-.top-head > h1{
-  color: red;
+.top-head{
+  height: 300px;
+  width: 100%;
+  background-color: red;
 }
