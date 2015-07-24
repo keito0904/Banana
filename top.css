@@ -177,3 +177,9 @@
   color: #777;
   padding: 8px 0px;
 }
+.footer .footer-info strong, .footer .footer-info .info{
+  float: left;
+}
+.footer .footer-info strong{
+  width: 180px;
+}
