@@ -142,6 +142,9 @@
   margin-right: 40px;
   float: left;
 }
+.small-box.service-box{
+  margin-right: 0px;
+}
 .small-box .box-content img{
   width: 100%;
   border-radius: 4px;
