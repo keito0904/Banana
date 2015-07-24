@@ -130,3 +130,10 @@
   font-size: 12px;
   margin: 0px 10px;
 }
+.large-box{
+  width: 700px;
+}
+.small-box{
+  width: 330px;
+  margin-right: 40px;
+}
