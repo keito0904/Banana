@@ -27,6 +27,10 @@ a:hover{
 .clear{
   clear: both;
 }
+.content{
+  width: 980px;
+  margin: 0 auto;
+}
 .top-nav{
   /* IE10 Consumer Preview */
   background-image: -ms-linear-gradient(top, #856727 0%, #6A511F 100%);
