@@ -112,6 +112,8 @@
 }
 .box-content{
   padding: 20px 17px;
+}
+.newsfeed-box .box-content{
   height: 250px;
   overflow: scroll;
 }
