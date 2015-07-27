@@ -46,6 +46,10 @@ a:hover{
   background-image: linear-gradient(to bottom, #856727 0%, #6A511F 100%);
   box-shadow: 0px -2px 3px rgba(52,85,43,0.8);
 }
+.top-nav.shadow{
+  box-shadow: 0px 3px 3px rgba(52,85,43,0.75);
+  position: relative;
+}
 .top-nav ul{
   margin: 0 auto;
   width: 980px;
