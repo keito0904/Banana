@@ -16,3 +16,30 @@
   border-bottom: 1px dashed #95c530;
   padding-bottom: 5px;
 }
+.media{
+  display: table;
+  width: 100%;
+  margin: 20px 0px;
+}
+.media-left, .media-body{
+  display: table-cell;
+  vertical-align: top;
+}
+.media-left{
+  width: 200px;
+  padding-right: 30px;
+}
+.media-left img{
+  width: 200px;
+  box-shadow: 0px 1px 3px rgba(34,50,24,0.6);
+}
+.media-body .service-name{
+  font-size: 18px;
+  padding: 8px 15px;
+  color: #fff;
+  background-color: #95c530;
+  font-weight: bold;
+}
+.media-body p{
+  padding: 0px 10px;
+}
